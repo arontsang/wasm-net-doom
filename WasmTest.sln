@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wasi", "Wasi\Wasi.csproj", "{2FD33E4C-D9B1-466B-9C58-463B83C9F259}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WasmHelloWorld", "WasmHelloWorld\WasmHelloWorld.esproj", "{F944283F-7120-4B24-8A5C-3E7783FB2E04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{924417A7-C1B7-42E2-AF5A-B00AD436DD33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD33E4C-D9B1-466B-9C58-463B83C9F259}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD33E4C-D9B1-466B-9C58-463B83C9F259}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD33E4C-D9B1-466B-9C58-463B83C9F259}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD33E4C-D9B1-466B-9C58-463B83C9F259}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F944283F-7120-4B24-8A5C-3E7783FB2E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F944283F-7120-4B24-8A5C-3E7783FB2E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F944283F-7120-4B24-8A5C-3E7783FB2E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F944283F-7120-4B24-8A5C-3E7783FB2E04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924417A7-C1B7-42E2-AF5A-B00AD436DD33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924417A7-C1B7-42E2-AF5A-B00AD436DD33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924417A7-C1B7-42E2-AF5A-B00AD436DD33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924417A7-C1B7-42E2-AF5A-B00AD436DD33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

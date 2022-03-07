@@ -1,0 +1,12 @@
+{
+  "name": "WasmHelloWorld",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "as-wasi": "^0.4.6"
+  },
+  "devDependencies": {
+    "assemblyscript": "^0.19.23"
+  }
+}
